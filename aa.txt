@@ -1,1 +1,5 @@
-line1
+<<<<<<< HEAD
+this is changed at mearging
+=======
+this is line from featureB
+>>>>>>> featureB
