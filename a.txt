@@ -1,2 +1,2 @@
- hello this is sample file.
+12345678 hello this is sample file.
 This is from featureB branch :) have a look
